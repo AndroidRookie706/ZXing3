@@ -13,7 +13,7 @@
 - Add the dependency
 ```
 	dependencies {
-	        implementation 'com.github.AndroidRookie706:ZXing3:1.0'
+	        implementation 'com.github.AndroidRookie706:ZXing3:1.1'
 	}
 
 ```
